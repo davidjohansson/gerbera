@@ -8,10 +8,6 @@ const api = new LiveApi({
     secret: process.env.secret,
     tokenKey: process.env.tokenKey,
     tokenSecret: process.env.tokenSecret
-    // key:'FEHUVEW84RAFR5SP22RABURUPHAFRUNU',
-    // secret:'ZUXEVEGA9USTAZEWRETHAQUBUR69U6EF',
-    // tokenKey:'4e639229af30dc575550e701038cf1d006161a033',
-    // tokenSecret:'1fb8797c9a03f47beb14b540ea9b3689'
 });
 
 async function listDevices() {
