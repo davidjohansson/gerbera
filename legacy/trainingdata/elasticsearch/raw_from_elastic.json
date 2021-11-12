@@ -1,0 +1,866 @@
+[
+  {
+    "text": "brost=106.0+mage=90.0+nacke=43.0+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-08-04"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-09"
+  },
+  {
+    "text": "dips=17.0+rackhav=11.0+mat=0.0+fasta=0.0+traning=0.0+marklyft=100.0+splitjerk=60.0+a=b",
+    "time": "2010-12-01"
+  },
+  {
+    "text": "brost=110.0+mage=90.0+nacke=43.0+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+styrkefrivandning=50.0+a=b",
+    "time": "2011-01-27"
+  },
+  {
+    "text": "brost=110.0+mage=89.0+nacke=43.0+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-03-21"
+  },
+  {
+    "text": "brost=107.0+mage=87.0+vikt=88.3+nacke=43.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-05-13"
+  },
+  {
+    "text": "vikt=89.0+mat=0.0+fasta=0.0+traning=0.0+marklyft=110.0+press=42.5+knaboj=80.0+cftotal=232.5+a=b",
+    "time": "2011-05-16"
+  },
+  {
+    "text": "brost=106.5+mage=89.5+nacke=42.5+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-10"
+  },
+  {
+    "text": "bankpress3g=77.5+brost=106.0+mage=89.0+vikt=91.5+nacke=42.5+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-14"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+vpuls=58.0+a=b",
+    "time": "2009-10-11"
+  },
+  {
+    "text": "brost=109.0+mage=89.0+vikt=91.4+nacke=42.5+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-24"
+  },
+  {
+    "text": "brost=108.5+mage=88.5+nacke=42.5+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-11-03"
+  },
+  {
+    "text": "vikt=90.1+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-12-01"
+  },
+  {
+    "text": "brost=106.0+mage=89.0+nacke=42.5+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-12-04"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-19"
+  },
+  {
+    "text": "brost=105.0+vikt=92.5+nacke=42.5+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-20"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-27"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-28"
+  },
+  {
+    "text": "brost=106.5+mage=83.5+vikt=85.0+nacke=44.0+fett=9.26+mat=320.0+fasta=350.0+traning=420.0+a=b",
+    "time": "2013-02-11"
+  },
+  {
+    "text": "mat=400.0+fasta=350.0+traning=280.0+a=b",
+    "time": "2013-02-25"
+  },
+  {
+    "text": "vikt=82.5+mat=220.0+fasta=350.0+traning=0.0+fett2=12.9+a=b",
+    "time": "2013-04-28"
+  },
+  {
+    "text": "brost=106.5+mage=84.5+vikt=84.0+nacke=43.0+fett=11.75+fett2=13.1+a=b",
+    "time": "2014-06-16"
+  },
+  {
+    "text": "brost=108.0+mage=85.0+nacke=42.5+fett=12.95+a=b",
+    "time": "2014-11-18"
+  },
+  {
+    "text": "brost=108.0+mage=87.5+vikt=87.6+nacke=43.0+fett=15.27+fett2=14.0+a=b",
+    "time": "2015-02-09"
+  },
+  {
+    "text": "tiokm=78.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-07-08"
+  },
+  {
+    "text": "tiokm=71.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-07-25"
+  },
+  {
+    "text": "rackhav=16.0+mat=0.0+fasta=0.0+traning=0.0+powersnatch=55.0+a=b",
+    "time": "2011-08-13"
+  },
+  {
+    "text": "lopningkm=5",
+    "time": null
+  },
+  {
+    "text": "brost=110",
+    "time": null
+  },
+  {
+    "text": "mat=160.0+fasta=350.0+traning=420.0+a=b",
+    "time": "2013-10-28"
+  },
+  {
+    "text": "mat=60.0+fasta=350.0+traning=420.0+a=b",
+    "time": "2013-12-16"
+  },
+  {
+    "text": "femkm=35.3+marklyft=80.0+a=b",
+    "time": "2014-02-19"
+  },
+  {
+    "text": "bankpress3g=70.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-07-16"
+  },
+  {
+    "text": "lopningkm=5+timestamp=2018-04-06",
+    "time": "2018-04-06"
+  },
+  {
+    "text": "fett2=16.1",
+    "time": null
+  },
+  {
+    "text": "rackhav=9.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-12"
+  },
+  {
+    "text": "brost=108.0+mage=89.0+nacke=43.0+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-11-13"
+  },
+  {
+    "text": "brost=109.0+mage=89.5+vikt=91.7+nacke=43.0+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-11-25"
+  },
+  {
+    "text": "brost=109.0+mage=89.5+vikt=91.5+nacke=43.0+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+styrkefrivandning=50.0+a=b",
+    "time": "2011-03-27"
+  },
+  {
+    "text": "brost=109.0+mage=88.5+nacke=43.0+fett=16.39+mat=0.0+fasta=0.0+traning=0.0+splitjerk=65.0+a=b",
+    "time": "2011-04-28"
+  },
+  {
+    "text": "brost=107.0+mage=87.0+nacke=43.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-03-05"
+  },
+  {
+    "text": "brost=107.5+mage=86.5+vikt=88.1+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-05-17"
+  },
+  {
+    "text": "brost=106.5+mage=86.0+nacke=43.0+fett=13.54+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-05-20"
+  },
+  {
+    "text": "tiokm=76.0+brost=106.5+mage=84.5+vikt=83.5+nacke=43.0+fett=11.75+mat=0.0+fasta=0.0+traning=0.0+bankpress=80.0+a=b",
+    "time": "2011-09-04"
+  },
+  {
+    "text": "brost=107.5+mage=86.5+vikt=85.6+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-12-10"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-03-11"
+  },
+  {
+    "text": "brost=105.6+mage=86.5+vikt=85.0+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-04-01"
+  },
+  {
+    "text": "brost=107.0+mage=86.5+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-04-23"
+  },
+  {
+    "text": "brost=107.5+mage=86.5+vikt=87.7+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-05-08"
+  },
+  {
+    "text": "brost=109.5+mage=88.5+nacke=44.0+fett=15.27+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-05-27"
+  },
+  {
+    "text": "bankpress3g=80.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-22"
+  },
+  {
+    "text": "bankpress3g=80.0+brost=107.0+mage=91.0+nacke=42.5+fett=19.61+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-28"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-21"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-26"
+  },
+  {
+    "text": "brost=107.0+mage=90.0+nacke=42.5+fett=18.56+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-27"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-11-02"
+  },
+  {
+    "text": "brost=107.5+mage=87.5+vikt=88.0+nacke=44.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-07-13"
+  },
+  {
+    "text": "mat=340.0+fasta=700.0+traning=140.0+a=b",
+    "time": "2013-01-28"
+  },
+  {
+    "text": "brost=105.6+mage=81.0+nacke=43.0+fett=7.31+mat=0.0+fasta=0.0+traning=0.0+fett2=12.3+a=b",
+    "time": "2013-06-10"
+  },
+  {
+    "text": "mat=180.0+fasta=350.0+traning=140.0+a=b",
+    "time": "2013-06-17"
+  },
+  {
+    "text": "brost=106.5+mage=82.5+nacke=43.0+fett=9.26+a=b",
+    "time": "2013-11-01"
+  },
+  {
+    "text": "brost=107.0+mage=84.0+vikt=84.8+nacke=43.0+fett=11.14+fett2=13.1+a=b",
+    "time": "2013-12-15"
+  },
+  {
+    "text": "femkm=34.07+a=b",
+    "time": "2013-12-19"
+  },
+  {
+    "text": "brost=109.0+mage=84.0+vikt=84.0+nacke=43.0+fett=11.14+fett2=13.7+a=b",
+    "time": "2013-12-24"
+  },
+  {
+    "text": "femkm=39.0+a=b",
+    "time": "2014-01-09"
+  },
+  {
+    "text": "brost=109.5+mage=84.5+nacke=43.0+fett=11.75+a=b",
+    "time": "2014-01-25"
+  },
+  {
+    "text": "brost=105.0+mage=92.0+nacke=43.0+fett=20.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-26"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-05-05"
+  },
+  {
+    "text": "brost=107.0+mage=90.0+vikt=92.5+nacke=43.0+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-05-28"
+  },
+  {
+    "text": "brost=106.0+mage=89.0+vikt=92.0+nacke=43.0+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-08-07"
+  },
+  {
+    "text": "tiokm=75.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-07-19"
+  },
+  {
+    "text": "bankpress3g=75.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-10"
+  },
+  {
+    "text": "bankpress3g=77.5+brost=109.5+mage=89.5+vikt=92.4+nacke=41.5+fett=19.09+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-18"
+  },
+  {
+    "text": "brost=107.0+mage=86.5+vikt=85.3+nacke=43.0+fett=14.13+fett2=13.2+a=b",
+    "time": "2014-08-03"
+  },
+  {
+    "text": "brost=108.5+mage=88.5+vikt=88.8+nacke=43.0+fett=16.39+a=b",
+    "time": "2015-02-06"
+  },
+  {
+    "text": "brost=110.0+mage=89.0+vikt=89.0+nacke=43.0+fett=16.94+fett2=14.5+a=b",
+    "time": "2015-05-13"
+  },
+  {
+    "text": "mage=89+brost=110",
+    "time": null
+  },
+  {
+    "text": "rackhav=8",
+    "time": null
+  },
+  {
+    "text": "mage=95+vikt=95.6+brost=113+fett2=16.7",
+    "time": null
+  },
+  {
+    "text": "mage=93+vikt=95+brost=112+fett2=16.1",
+    "time": null
+  },
+  {
+    "text": "lopningkm=3",
+    "time": null
+  },
+  {
+    "text": "femkm=33.33+a=b",
+    "time": "2013-11-11"
+  },
+  {
+    "text": "brost=107.0+mage=84.0+vikt=84.0+nacke=43.0+fett=11.14+fett2=13.0+a=b",
+    "time": "2013-11-16"
+  },
+  {
+    "text": "mat=20.0+fasta=350.0+traning=140.0+a=b",
+    "time": "2013-12-23"
+  },
+  {
+    "text": "mat=40.0+a=b",
+    "time": "2013-12-30"
+  },
+  {
+    "text": "styrkefrivandning=50.0+a=b",
+    "time": "2014-01-07"
+  },
+  {
+    "text": "mat=120.0+fasta=350.0+traning=140.0+a=b",
+    "time": "2014-02-10"
+  },
+  {
+    "text": "brost=107.5+mage=85.0+vikt=85.5+nacke=43.0+fett=12.36+fett2=13.5+a=b",
+    "time": "2014-02-16"
+  },
+  {
+    "text": "vikt=84.9+fett2=13.1+a=b",
+    "time": "2014-02-27"
+  },
+  {
+    "text": "brost=107.0+mage=87.0+nacke=43.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-04-13"
+  },
+  {
+    "text": "brost=109.0+mage=87.0+vikt=88.8+nacke=43.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-04-30"
+  },
+  {
+    "text": "brost=107.0+mage=85.5+vikt=88.0+nacke=44.0+fett=11.75+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-05-10"
+  },
+  {
+    "text": "brost=107.5+mage=87.0+vikt=87.9+nacke=44.0+fett=13.54+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-07-15"
+  },
+  {
+    "text": "brost=107.5+mage=87.5+vikt=87.7+nacke=44.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-08-08"
+  },
+  {
+    "text": "brost=107.0+mage=89.0+nacke=42.5+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-17"
+  },
+  {
+    "text": "tiokm=70.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-20"
+  },
+  {
+    "text": "brost=108.0+mage=90.5+nacke=42.5+fett=19.09+mat=0.0+fasta=0.0+traning=0.0+fett2=2.6+a=b",
+    "time": "2009-09-23"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-13"
+  },
+  {
+    "text": "brost=108.0+mage=90.0+vikt=91.3+nacke=42.5+fett=18.56+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-15"
+  },
+  {
+    "text": "brost=107.0+mage=87.0+vikt=87.0+nacke=44.0+fett=13.54+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-10-26"
+  },
+  {
+    "text": "brost=108.0+mage=85.0+vikt=86.0+nacke=44.0+fett=11.14+mat=320.0+fasta=700.0+traning=0.0+a=b",
+    "time": "2013-01-21"
+  },
+  {
+    "text": "mat=200.0+fasta=350.0+traning=380.0+a=b",
+    "time": "2013-06-30"
+  },
+  {
+    "text": "femkm=36.35+a=b",
+    "time": "2013-10-10"
+  },
+  {
+    "text": "femkm=35.0+a=b",
+    "time": "2013-10-21"
+  },
+  {
+    "text": "tiokm=75.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-03-06"
+  },
+  {
+    "text": "vikt=87.9+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-05-12"
+  },
+  {
+    "text": "brost=108.0+mage=86.0+vikt=87.9+nacke=43.0+fett=13.54+mat=0.0+fasta=0.0+traning=0.0+cindy=9.0+a=b",
+    "time": "2011-05-23"
+  },
+  {
+    "text": "brost=107.5+mage=85.0+vikt=86.6+nacke=43.0+fett=12.36+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-06-07"
+  },
+  {
+    "text": "timestamp=2017-10-26+mage=86+brost=112",
+    "time": "2017-10-26"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-05-04"
+  },
+  {
+    "text": "brost=106.5+mage=89.5+nacke=43.0+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-06-01"
+  },
+  {
+    "text": "brost=106.5+mage=90.5+vikt=92.9+nacke=43.0+fett=18.56+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-03"
+  },
+  {
+    "text": "vikt=91.4+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-07-08"
+  },
+  {
+    "text": "dips=7.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2008-08-13"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-17"
+  },
+  {
+    "text": "tiokm=70.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-23"
+  },
+  {
+    "text": "mage=86+brost=112",
+    "time": null
+  },
+  {
+    "text": "brost=108.5+mage=88.0+vikt=88.3+nacke=43.0+fett=15.84+fett2=14.3+a=b",
+    "time": "2015-01-29"
+  },
+  {
+    "text": "mage=89",
+    "time": null
+  },
+  {
+    "text": "mage=94.5+vikt=94.5+brost=111",
+    "time": null
+  },
+  {
+    "text": "lopningkm=6",
+    "time": null
+  },
+  {
+    "text": "femkm=34.37+a=b",
+    "time": "2013-11-19"
+  },
+  {
+    "text": "brost=108.5+mage=84.5+nacke=43.0+fett=11.75+a=b",
+    "time": "2014-01-02"
+  },
+  {
+    "text": "mat=160.0+fasta=350.0+traning=280.0+a=b",
+    "time": "2014-01-06"
+  },
+  {
+    "text": "mat=80.0+fasta=350.0+traning=280.0+a=b",
+    "time": "2014-01-13"
+  },
+  {
+    "text": "femkm=35.0+a=b",
+    "time": "2014-02-12"
+  },
+  {
+    "text": "mat=120.0+fasta=700.0+traning=280.0+a=b",
+    "time": "2014-02-17"
+  },
+  {
+    "text": "femkm=34.2+mat=40.0+traning=140.0+bankpress=60.0+a=b",
+    "time": "2014-02-24"
+  },
+  {
+    "text": "femkm=39.0+brost=106.0+mage=84.0+vikt=84.0+nacke=43.0+fett=11.14+fett2=13.0+a=b",
+    "time": "2014-04-28"
+  },
+  {
+    "text": "femkm=37.0+brost=106.0+mage=83.0+vikt=82.7+nacke=43.0+fett=9.90+fett2=12.6+bankpress=65.0+a=b",
+    "time": "2014-05-09"
+  },
+  {
+    "text": "brost=107.6+mage=86.5+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-09-13"
+  },
+  {
+    "text": "brost=106.5+mage=87.0+nacke=43.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-10-01"
+  },
+  {
+    "text": "tiokm=68.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-12-11"
+  },
+  {
+    "text": "dips=5.0+rackhav=13.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-01-08"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-06-03"
+  },
+  {
+    "text": "brost=108.0+mage=88.0+vikt=89.0+nacke=44.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-06-17"
+  },
+  {
+    "text": "brost=107.0+mage=86.0+vikt=86.0+nacke=44.0+fett=12.36+mat=500.0+fasta=700.0+traning=0.0+a=b",
+    "time": "2013-01-13"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-02-28"
+  },
+  {
+    "text": "bankpress3g=70.0+brost=108.0+mage=92.0+nacke=42.5+fett=20.64+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-03-01"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-03-02"
+  },
+  {
+    "text": "brost=106.0+mage=90.0+vikt=92.5+nacke=43.0+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-05-06"
+  },
+  {
+    "text": "brost=108.0+mage=92.5+nacke=43.0+fett=20.64+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-07-05"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-02"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-04"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-06"
+  },
+  {
+    "text": "vikt=91.7+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-07"
+  },
+  {
+    "text": "mat=120.0+fasta=700.0+traning=280.0+a=b",
+    "time": "2013-02-18"
+  },
+  {
+    "text": "brost=108.0+mage=84.0+nacke=44.0+fett=9.90+mat=340.0+fasta=350.0+traning=420.0+a=b",
+    "time": "2013-03-11"
+  },
+  {
+    "text": "mat=400.0+fasta=700.0+traning=420.0+a=b",
+    "time": "2013-03-18"
+  },
+  {
+    "text": "brost=107.5+mage=83.5+vikt=86.0+nacke=43.0+fett=10.52+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2013-03-25"
+  },
+  {
+    "text": "brost=107.5+mage=83.0+vikt=84.0+nacke=43.0+fett=9.90+mat=180.0+fasta=700.0+traning=560.0+a=b",
+    "time": "2013-04-01"
+  },
+  {
+    "text": "brost=108.0+mage=83.0+vikt=83.5+nacke=43.0+fett=9.90+mat=380.0+fasta=700.0+traning=420.0+fett2=12.8+a=b",
+    "time": "2013-04-21"
+  },
+  {
+    "text": "bankpress3g=70.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-24"
+  },
+  {
+    "text": "bankpress3g=75.0+brost=106.5+mage=88.0+vikt=91.4+nacke=42.5+fett=16.39+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-08"
+  },
+  {
+    "text": "brost=108.0+mage=91.5+nacke=42.5+fett=20.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-09"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-11"
+  },
+  {
+    "text": "brost=107.0+mage=90.0+nacke=42.5+fett=18.56+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-12"
+  },
+  {
+    "text": "brost=109.0+mage=91.0+nacke=42.5+fett=19.61+mat=0.0+fasta=0.0+traning=0.0+fett2=2.4+a=b",
+    "time": "2009-09-29"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-07"
+  },
+  {
+    "text": "brost=107.0+mage=88.5+vikt=90.5+nacke=42.5+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+fett2=2.3+a=b",
+    "time": "2009-10-08"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-25"
+  },
+  {
+    "text": "brost=107.5+mage=89.5+nacke=42.5+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-01-03"
+  },
+  {
+    "text": "mage=89+vikt=91.2+fett2=14.8",
+    "time": null
+  },
+  {
+    "text": "tiokm=71.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-03-20"
+  },
+  {
+    "text": "brost=106.5+mage=84.5+vikt=84.0+nacke=43.0+fett=11.75+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-09-01"
+  },
+  {
+    "text": "mat=40.0+a=b",
+    "time": "2014-07-07"
+  },
+  {
+    "text": "mat=40.0+a=b",
+    "time": "2014-07-07"
+  },
+  {
+    "text": "mat=180.0+fasta=350.0+a=b",
+    "time": "2014-08-04"
+  },
+  {
+    "text": "vikt=87.8+fett2=13.9+a=b",
+    "time": "2014-11-22"
+  },
+  {
+    "text": "bankpress3g=77.5+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-31"
+  },
+  {
+    "text": "mage=89+brost=110",
+    "time": null
+  },
+  {
+    "text": "lopningkm=10+timestamp=2018-04-08",
+    "time": "2018-04-08"
+  },
+  {
+    "text": "vikt=95.8",
+    "time": null
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-06"
+  },
+  {
+    "text": "brost=106.5+mage=88.5+vikt=89.5+nacke=42.5+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-09"
+  },
+  {
+    "text": "brost=107.0+mage=91.0+nacke=42.5+fett=19.61+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-14"
+  },
+  {
+    "text": "brost=107.0+mage=90.0+vikt=91.3+nacke=42.5+fett=18.56+mat=0.0+fasta=0.0+traning=0.0+vpuls=55.0+a=b",
+    "time": "2009-10-22"
+  },
+  {
+    "text": "brost=109.0+mage=90.0+nacke=42.5+fett=18.56+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-10-23"
+  },
+  {
+    "text": "brost=108.0+mage=91.0+nacke=42.5+fett=19.61+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-11-13"
+  },
+  {
+    "text": "brost=107.0+mage=89.0+nacke=42.5+fett=17.49+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-11-17"
+  },
+  {
+    "text": "brost=108.5+mage=88.5+nacke=42.5+fett=16.94+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-11-18"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+vpuls=53.0+a=b",
+    "time": "2010-01-03"
+  },
+  {
+    "text": "brost=108.0+mage=90.5+nacke=42.5+fett=19.09+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-02-25"
+  },
+  {
+    "text": "mat=340.0+fasta=700.0+traning=280.0+a=b",
+    "time": "2013-02-04"
+  },
+  {
+    "text": "mat=340.0+fasta=700.0+traning=560.0+a=b",
+    "time": "2013-03-04"
+  },
+  {
+    "text": "brost=108.0+mage=83.0+vikt=85.0+nacke=43.0+fett=9.90+mat=240.0+fasta=700.0+traning=0.0+fett2=12.7+a=b",
+    "time": "2013-04-15"
+  },
+  {
+    "text": "mat=340.0+fasta=700.0+traning=280.0+fett2=12.5+a=b",
+    "time": "2013-05-06"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=420.0+a=b",
+    "time": "2013-06-24"
+  },
+  {
+    "text": "brost=106.5+mage=82.5+vikt=82.5+nacke=43.0+fett=9.26+mat=340.0+fasta=700.0+traning=140.0+a=b",
+    "time": "2013-09-02"
+  },
+  {
+    "text": "brost=109.0+mage=83.0+vikt=82.4+nacke=43.0+fett=9.90+mat=120.0+fasta=350.0+traning=280.0+fett2=12.4+a=b",
+    "time": "2013-09-07"
+  },
+  {
+    "text": "brost=106.5+mage=84.0+nacke=43.0+fett=11.14+fett2=0.0+a=b",
+    "time": "2013-11-14"
+  },
+  {
+    "text": "tiokm=67.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-09-11"
+  },
+  {
+    "text": "tiokm=66.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-01-02"
+  },
+  {
+    "text": "rackhav=12.0+brost=106.5+mage=86.5+vikt=86.6+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-01-06"
+  },
+  {
+    "text": "brost=109.5+mage=88.5+nacke=44.0+fett=15.27+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-05-23"
+  },
+  {
+    "text": "brost=108.0+mage=88.0+nacke=44.0+fett=14.70+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2012-05-30"
+  },
+  {
+    "text": "vikt=92.8+mat=0.0+fasta=0.0+traning=0.0+vpuls=72.0+a=b",
+    "time": "2010-03-03"
+  },
+  {
+    "text": "brost=106.5+mage=92.5+vikt=91.6+nacke=42.5+fett=21.15+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-06"
+  },
+  {
+    "text": "brost=107.0+mage=92.0+vikt=91.7+nacke=42.5+fett=20.64+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-04-13"
+  },
+  {
+    "text": "brost=109.0+mage=92.0+nacke=43.0+fett=20.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-07-07"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2010-09-05"
+  },
+  {
+    "text": "mat=0.0+fasta=0.0+traning=0.0+bankpress=80.0+a=b",
+    "time": "2011-03-10"
+  },
+  {
+    "text": "brost=107.0+mage=88.0+vikt=88.5+nacke=43.0+fett=15.84+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-05-10"
+  },
+  {
+    "text": "brost=106.5+mage=86.5+nacke=43.0+fett=14.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-05-24"
+  },
+  {
+    "text": "tiokm=80.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2011-07-01"
+  },
+  {
+    "text": "bankpress3g=70.0+brost=112.5+mage=91.0+nacke=42.0+fett=20.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-07-07"
+  },
+  {
+    "text": "tiokm=65.0+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-07-27"
+  },
+  {
+    "text": "brost=112.5+mage=91.0+nacke=42.0+fett=20.13+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-08-09"
+  },
+  {
+    "text": "brost=107.0+mage=89.5+nacke=42.5+fett=18.03+mat=0.0+fasta=0.0+traning=0.0+a=b",
+    "time": "2009-09-15"
+  },
+  {
+    "text": "timestamp=2018-03-24+lopningkm=4.66",
+    "time": "2018-03-24"
+  },
+  {
+    "text": "fett2=15.7",
+    "time": null
+  },
+  {
+    "text": "brost=108.0+mage=89.0+vikt=89.0+nacke=43.0+fett=16.94+fett2=14.5+a=b",
+    "time": "2015-01-21"
+  },
+  {
+    "text": "brost=109.0+mage=87.0+nacke=43.0+fett=14.70+a=b",
+    "time": "2015-03-09"
+  },
+  {
+    "text": "mat=80.0+fasta=0.0+traning=420.0+a=b",
+    "time": "2013-12-09"
+  },
+  {
+    "text": "mat=100.0+traning=280.0+a=b",
+    "time": "2014-06-23"
+  },
+  {
+    "text": "mage=95+brost=112+vikt=96+fett2=16.3",
+    "time": null
+  }
+]

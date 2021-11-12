@@ -1,0 +1,9 @@
+{
+  "name": "gerbera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "telldus-api": "^1.0.3"
+  }
+}
