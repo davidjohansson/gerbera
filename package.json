@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@influxdata/influxdb-client": "^1.22.0",
     "telldus-api": "^1.0.3"
   }
 }

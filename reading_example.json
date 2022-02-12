@@ -1,0 +1,35 @@
+{
+    "id": "1547407706",
+    "clientName": "Källaren",
+    "name": "Källaren",
+    "lastUpdated": 1644656183,
+    "ignored": 0,
+    "editable": 1,
+    "data": [
+      {
+        "name": "temp",
+        "value": "15.6",
+        "scale": "0",
+        "lastUpdated": 1644656183,
+        "max": "25.7",
+        "maxTime": 1633787259,
+        "min": "3.4",
+        "minTime": 1640593709
+      },
+      {
+        "name": "humidity",
+        "value": "40",
+        "scale": "0",
+        "lastUpdated": 1644656183,
+        "max": "79",
+        "maxTime": 1643551860,
+        "min": "14",
+        "minTime": 1637982365
+      }
+    ],
+    "protocol": "mandolyn",
+    "sensorId": "1",
+    "timezoneoffset": 3600,
+    "battery": "253",
+    "keepHistory": "1"
+  }
