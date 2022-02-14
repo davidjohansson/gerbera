@@ -19,8 +19,8 @@ async function readValue() {
     return Promise.all( devices.map(async device => {
         
         const reading = await api.getSensorInfo(device.id);
-        const tempValues = reading.data.filter( entry => entry.name === 'temp')
-        const humidityValues = reading.data.filter( entry => entry.name === 'humidity')
+        const tempValues = reading.data?.filter( entry => entry.name === 'temp') || [ { value: 0.0 } ]
+        const humidityValues = reading.data?.filter( entry => entry.name === 'humidity') || [ {value:  0.0 } ]
         
         const newLocal = {
             sensorId: device.id,
