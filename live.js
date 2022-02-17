@@ -12,13 +12,21 @@ const api = new LiveApi({
 async function listDevices() {
     const devices = await api.listSensors();
     console.log(devices)
+
 }
 
+async function energyMeter(){
+    const reading = await api.getSensorInfo("1550049126");
+    console.log(JSON.stringify(reading))
+
+}
 async function readValue() {
     const devices = await api.listSensors();
     return Promise.all( devices.map(async device => {
         
         const reading = await api.getSensorInfo(device.id);
+        console.log(JSON.stringify(reading))
+
         const tempValues = reading.data?.filter( entry => entry.name === 'temp') || [ { value: 0.0 } ]
         const humidityValues = reading.data?.filter( entry => entry.name === 'humidity') || [ {value:  0.0 } ]
         
@@ -26,13 +34,24 @@ async function readValue() {
             sensorId: device.id,
             time: reading.lastUpdated,
             location: reading.name,
-            temperature: tempValues[0].value,
-            humidity: humidityValues[0].value
+            temperature: tempValues[0] ? tempValues[0].value : 0,
+            humidity: humidityValues[0] ? humidityValues[0].value : 0
+
+
         };
         return newLocal
     }))
 }
 
+async function readValueRaw() {
+    const devices = await api.listSensors();
+    return Promise.all( devices.map(async device => {
+        
+        const reading = await api.getSensorInfo(device.id);
+
+        console.log(JSON.stringify(reading));
+    }))
+}
 async function storeLocally() {
     const readings = await readValue()
     console.log(JSON.stringify(readings));
@@ -83,8 +102,10 @@ async function storeInInfluxDB() {
 }
 
 
-//storeLocally();
+// energyMeter();
+// listDevices();
 storeInInfluxDB();
-
+// readValueRaw();
+//  storeLocally();
 
 //listDevices();
